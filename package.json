@@ -1,7 +1,7 @@
 {
 	"author": "Mohannad Adham",
 	"description": "A web application for learning npm package management",
-	"keywords": ["freeCodeCamp", "npm", "node.js", "backend"],
+	"keywords": ["freecodecamp", "npm", "node.js", "backend"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
