@@ -1,4 +1,6 @@
 {
+	"author": "Mohannad Adham",
+	"description": "A web application for learning npm package management",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
